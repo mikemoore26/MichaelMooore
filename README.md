@@ -1,7 +1,16 @@
-# Michael Moore
-## Data Science Student
-
-My name is Michael Moore. I graduated at Farmingdale State College with a Bachelor’s in Computer Programming and Information System in December 2015. I’ve spent most my time post college learning more about IT and eventually was able to get an A+ certification which I used to do multiple jobs in the field of IT. Now I am taking Data Science class with Tech I.S. which so far help me learn python, SQL, numpy, and so much more to come.
-
-
--  student of Tech I.S.
+My name is Michael Moore. I am a graduate from Farmingdale State College with a bachelor’s in Computer Programming and Information Systems.
+ 
+I have been interested in computers and technology for most of my life. My hands-on experience with technology began in SCAN NY, an after-school program for youth in my neighborhood. This program gave me a foundation of knowledge that I relied upon to create my first console-based game using Java while I was still attending high school at (Name High School). The name of the game was (Name game, It’s interesting.)
+ 
+While this game I created was not what I would consider to be competitive in today’s marketplace, its creation was a fantastic experience for me because it felt like my first contribution to the technological world. It was one that I could call my own. I continued to pursue knowledge in my interest in computers and technology by enrolling High School’s Engineering and Robotics class. These classes helped me to develop my skills in time and resource management, team building and project planning-a subject about which I am passionate.
+ 
+During my time in Robotics I worked with other programmers to create machines that could perform various physical tasks from simple to complex, like programmed movement and manipulation of objects. I used these classes as a foundation to partner with classmates to compete with other high school students participating in technology competitions in the tri-borough area. This experience further instilled in me, the true value of teamwork. This is also where I developed the high standards that I hold today, with any contribution that I make to any project.  These standards motivate me to make sure everything I create is as close to perfect I can make it. In addition, these experiences taught me to learn from my competition.
+   
+With these newly obtained skills and the motivation to keep moving forward, I was privileged with the opportunity to attend college after applying to a great school. During my time in college I became an active leader in Greek and social life on campus, bringing Tau Kappa Epsilon to campus. This was the very first fraternity allowed to exist on campus and sanctioned by the school.  From there, I helped to establish the first Greek Council on campus. Through these social vehicles, I and other students have raised a lot of money and awareness in support of causes such as Breast Cancer, Pancreatic Cancer, Drunk Driving Awareness, and St. Jude’s Children’s Hospital.
+ 
+One of my favorite independent projects I worked on in school was called, “Game-Book.” Game-Book was a program on which two of my colleagues and I collaborated. We wanted to increase social interaction between students who were “gamers” in the same field of study.” Our plan was to use the program to bring together gamers and non-gamers, based on other similar hobbies. As lead programmer of the site it was my job to make sure everything was functional, secure, and presentable to the user. 
+Since my graduation from college, I have furthered my education in computers and technology by collecting several A+ certifications (such as???). With the newly acquired certifications I have worked on a variety projects that I’d love to discuss with you personally, in an interview.
+ 
+In a quest to gain more experience in my chosen field, I have also completed an internship at Columbia University Teacher’s College. During my time at Columbia University I learned a lot about responsibility and having people depend on you. If I were late to a classroom set or a call to help that would delay the class effecting the teacher’s job of teaching as well as the student ‘s process of learning.
+ 
+I want to continue my journey to have a successful career in the software industry by any means necessary.
